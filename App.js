@@ -18,28 +18,28 @@ import UserList from "./components/UserList";
 
 const dummyData = [
   {
-    id: 1,
+    id: 2341,
     title: "Iphone one",
     imageUri:
       "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc",
     price: 10000,
   },
   {
-    id: 2,
+    id: 122,
     title: "Iphone two",
     imageUri:
       "https://www.cnet.com/a/img/resize/552e099164dae5b22840cf845e9bd3a2f4874ba0/hub/2024/09/18/f4dfbd54-08f9-42cc-9309-1c3923a06558/iphone-16-plus-pro-pro-max-family-4559.jpg?auto=webp&fit=crop&height=675&width=1200",
     price: 30000,
   },
   {
-    id: 3,
+    id: 1233,
     title: "Iphone three",
     imageUri:
       "https://cdn.thewirecutter.com/wp-content/media/2025/02/iphone-2048px-0652.jpg?auto=webp&quality=75&width=1024",
     price: 50000,
   },
   {
-    id: 4,
+    id: 1224,
     title: "Iphone two",
     imageUri:
       "https://www.cnet.com/a/img/resize/552e099164dae5b22840cf845e9bd3a2f4874ba0/hub/2024/09/18/f4dfbd54-08f9-42cc-9309-1c3923a06558/iphone-16-plus-pro-pro-max-family-4559.jpg?auto=webp&fit=crop&height=675&width=1200",
