@@ -275,6 +275,8 @@ const store = configureStore({
 ## 📄 License
 
 This project is licensed under the MIT License.
+<img width="1000" height="700" alt="redux_example" src="https://github.com/user-attachments/assets/f5c6bd47-4cd0-4b80-b704-1143d1a6f9db" />
+
 
 ---
 
